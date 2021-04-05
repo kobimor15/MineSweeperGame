@@ -20,7 +20,7 @@ import javafx.scene.layout.VBox;
 import javafx.scene.text.Font;
 
 /**
- * This class represents the controller file for 'MinesFX.java' , by the
+ * This class represents the controller file for 'MineUI.java' , by the
  * 'MinesBoundary.fxml' file.
  * 
  * @author kobim
